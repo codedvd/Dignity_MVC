@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity\\DignityWebApp\\DignityWebApp.csproj": {}
+    "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\DignityWebApp\\DignityWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity\\DignityWebApp\\DignityWebApp.csproj": {
+    "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\DignityWebApp\\DignityWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity\\DignityWebApp\\DignityWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\DignityWebApp\\DignityWebApp.csproj",
         "projectName": "DignityWebApp",
-        "projectPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity\\DignityWebApp\\DignityWebApp.csproj",
+        "projectPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\DignityWebApp\\DignityWebApp.csproj",
         "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity\\DignityWebApp\\obj\\",
+        "outputPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\DignityWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,6 +59,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0-preview.5.23280.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.7, )"
             }
           },
           "imports": [
