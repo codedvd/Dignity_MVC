@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "DignityWebApp/1.0.0": {
         "dependencies": {
+          "Dignity.DataAccess": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.0-preview.5.23280.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-preview.5.23280.1",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.0-preview.5.23280.1",
@@ -2571,6 +2572,21 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
         }
+      },
+      "Dignity.DataAccess/1.0.0": {
+        "dependencies": {
+          "Dignity.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.0-preview.5.23280.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-preview.5.23280.1"
+        },
+        "runtime": {
+          "Dignity.DataAccess.dll": {}
+        }
+      },
+      "Dignity.Models/1.0.0": {
+        "runtime": {
+          "Dignity.Models.dll": {}
+        }
       }
     }
   },
@@ -4133,6 +4149,16 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+    },
+    "Dignity.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dignity.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

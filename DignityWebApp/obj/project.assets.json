@@ -3889,6 +3889,31 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Dignity.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Dignity.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.0-preview.5.23280.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-preview.5.23280.1"
+        },
+        "compile": {
+          "bin/placeholder/Dignity.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dignity.DataAccess.dll": {}
+        }
+      },
+      "Dignity.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Dignity.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dignity.Models.dll": {}
+        }
       }
     }
   },
@@ -11284,10 +11309,21 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Dignity.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Dignity.DataAccess/Dignity.DataAccess.csproj",
+      "msbuildProject": "../Dignity.DataAccess/Dignity.DataAccess.csproj"
+    },
+    "Dignity.Models/1.0.0": {
+      "type": "project",
+      "path": "../Dignity.Models/Dignity.Models.csproj",
+      "msbuildProject": "../Dignity.Models/Dignity.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Dignity.DataAccess >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.0-preview.5.23280.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0-preview.5.23280.1",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.0-preview.5.23280.1",
@@ -11327,7 +11363,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.DataAccess\\Dignity.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.DataAccess\\Dignity.DataAccess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

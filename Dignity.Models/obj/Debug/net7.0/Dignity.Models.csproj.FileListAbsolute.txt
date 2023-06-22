@@ -1,0 +1,12 @@
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.Models\bin\Debug\net7.0\Dignity.Models.deps.json
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.Models\bin\Debug\net7.0\Dignity.Models.dll
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.Models\bin\Debug\net7.0\Dignity.Models.pdb
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.Models\obj\Debug\net7.0\Dignity.Models.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.Models\obj\Debug\net7.0\Dignity.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.Models\obj\Debug\net7.0\Dignity.Models.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.Models\obj\Debug\net7.0\Dignity.Models.AssemblyInfo.cs
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.Models\obj\Debug\net7.0\Dignity.Models.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.Models\obj\Debug\net7.0\Dignity.Models.dll
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.Models\obj\Debug\net7.0\refint\Dignity.Models.dll
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.Models\obj\Debug\net7.0\Dignity.Models.pdb
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.Models\obj\Debug\net7.0\ref\Dignity.Models.dll

@@ -1,11 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\DignityWebApp",
-    "\\DignityWebApp\\Views",
-    "\\DignityWebApp\\Views\\Shared",
-    "\\DignityWebRazor_Temp"
+    ""
   ],
-  "SelectedNode": "\\DignityWebApp\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }

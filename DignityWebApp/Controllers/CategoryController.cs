@@ -1,5 +1,6 @@
-﻿using DignityWebApp.Data;
-using DignityWebApp.Models;
+﻿
+using Dignity.Models;
+using DignityWebApp.DataAccess.Data;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DignityWebApp.Controllers
@@ -27,7 +28,7 @@ namespace DignityWebApp.Controllers
             {
                 ModelState.AddModelError("name", "The DisplayOrder cannot exactly match the Name.");
             }
-/*            if (obj.Name != null && obj.Name.ToLower() == "test")
+/*          if (obj.Name != null && obj.Name.ToLower() == "test")
             {
                 ModelState.AddModelError("", "Test is an invalid value");
             }*/
@@ -90,7 +91,7 @@ namespace DignityWebApp.Controllers
         {
             Category? obj = _db.Categories.Find(id);
 
-            if (id == null)
+            if (obj == null)
             {
                 return NotFound();
             }
