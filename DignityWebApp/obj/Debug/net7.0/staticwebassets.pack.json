@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\DignityWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DignityWebApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\DignityWebApp.bundle.scp.css"
+      "Id": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\DignityWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DignityBookApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DignityBookApp.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\DignityWebApp\\wwwroot\\css\\site.css",
@@ -249,20 +249,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DignityWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DignityBookApp.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DignityWebApp.props",
-      "PackagePath": "build\\DignityWebApp.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DignityBookApp.props",
+      "PackagePath": "build\\DignityBookApp.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DignityWebApp.props",
-      "PackagePath": "buildMultiTargeting\\DignityWebApp.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DignityBookApp.props",
+      "PackagePath": "buildMultiTargeting\\DignityBookApp.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DignityWebApp.props",
-      "PackagePath": "buildTransitive\\DignityWebApp.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DignityBookApp.props",
+      "PackagePath": "buildTransitive\\DignityBookApp.props"
     }
   ],
   "ElementsToRemove": []

@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Models\\Dignity.Models.csproj": {
-                "projectPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Models\\Dignity.Models.csproj"
+              "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Models\\DignityBook.Models.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Models\\DignityBook.Models.csproj"
               }
             }
           }
@@ -84,12 +84,12 @@
         }
       }
     },
-    "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Models\\Dignity.Models.csproj": {
+    "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Models\\DignityBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Models\\Dignity.Models.csproj",
-        "projectName": "Dignity.Models",
-        "projectPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Models\\Dignity.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Models\\DignityBook.Models.csproj",
+        "projectName": "DignityBook.Models",
+        "projectPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Models\\DignityBook.Models.csproj",
         "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Models\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,0 +1,17 @@
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\bin\Debug\net7.0\DignityBook.DataAccess.deps.json
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\bin\Debug\net7.0\DignityBook.DataAccess.runtimeconfig.json
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\bin\Debug\net7.0\DignityBook.DataAccess.dll
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\bin\Debug\net7.0\DignityBook.DataAccess.pdb
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\bin\Debug\net7.0\DignityBook.Models.dll
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\bin\Debug\net7.0\DignityBook.Models.pdb
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\obj\Debug\net7.0\DignityBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\obj\Debug\net7.0\DignityBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\obj\Debug\net7.0\DignityBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\obj\Debug\net7.0\DignityBook.DataAccess.AssemblyInfo.cs
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\obj\Debug\net7.0\DignityBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\obj\Debug\net7.0\DignityBook.DataAccess.csproj.CopyComplete
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\obj\Debug\net7.0\DignityBook.DataAccess.dll
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\obj\Debug\net7.0\refint\DignityBook.DataAccess.dll
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\obj\Debug\net7.0\DignityBook.DataAccess.pdb
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\obj\Debug\net7.0\DignityBook.DataAccess.genruntimeconfig.cache
+C:\Users\Decagon\source\Professional Repo\Dignity_MVC\Dignity.DataAccess\obj\Debug\net7.0\ref\DignityBook.DataAccess.dll

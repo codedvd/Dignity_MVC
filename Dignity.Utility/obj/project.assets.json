@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Utility\\Dignity.Utility.csproj",
-      "projectName": "Dignity.Utility",
-      "projectPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Utility\\Dignity.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Utility\\DignityBook.Utility.csproj",
+      "projectName": "DignityBook.Utility",
+      "projectPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Utility\\DignityBook.Utility.csproj",
       "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\Dignity.Utility\\obj\\",
       "projectStyle": "PackageReference",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

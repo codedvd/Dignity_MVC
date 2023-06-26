@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace DignityWebRazor_Temp.Pages
+namespace DignityBookRazor_Temp.Pages
 {
     public class IndexModel : PageModel
     {

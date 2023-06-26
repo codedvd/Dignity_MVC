@@ -1,9 +1,9 @@
-using DignityWebRazor_Temp.Data;
-using DignityWebRazor_Temp.Models;
+using DignityBookRazor_Temp.Data;
+using DignityBookRazor_Temp.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace DignityWebRazor_Temp.Pages.Categories
+namespace DignityBookRazor_Temp.Pages.Categories
 {
     [BindProperties]
     public class DeleteModel : PageModel

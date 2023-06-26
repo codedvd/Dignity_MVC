@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using DignityWebRazor_Temp.Models;
+using DignityBookRazor_Temp.Models;
 
-namespace DignityWebRazor_Temp.Data
+namespace DignityBookRazor_Temp.Data
 {
     public class ApplicationDbContext : DbContext
     {

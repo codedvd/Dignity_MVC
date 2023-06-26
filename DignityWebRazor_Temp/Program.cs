@@ -1,5 +1,5 @@
 
-using DignityWebRazor_Temp.Data;
+using DignityBookRazor_Temp.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

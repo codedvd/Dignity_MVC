@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
 
-namespace DignityWebRazor_Temp.Models
+namespace DignityBookRazor_Temp.Models
 {
     public class Category
     {
