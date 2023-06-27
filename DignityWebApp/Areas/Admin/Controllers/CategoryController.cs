@@ -8,7 +8,6 @@ using Microsoft.AspNetCore.Mvc;
 namespace DignityBookApp.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    //[Route("Admin/[Controller]/[Action]/{id?}")]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -32,10 +31,6 @@ namespace DignityBookApp.Areas.Admin.Controllers
             {
                 ModelState.AddModelError("name", "The DisplayOrder cannot exactly match the Name.");
             }
-            /*          if (obj.Name != null && obj.Name.ToLower() == "test")
-                        {
-                            ModelState.AddModelError("", "Test is an invalid value");
-                        }*/
             if (ModelState.IsValid)
             {
                 _unitOfWork.Category.Add(obj);
