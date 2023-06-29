@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1lpyBGNrg/la+V3N4kVogG9vuWNJVzGTFoGkRiEIAGk=",
+  "Hash": "gNgUPzxsFv9wYeTyRQnPf4bvc7Qq+jK8tM29j9qBoRA=",
   "Source": "DignityBookApp",
   "BasePath": "_content/DignityBookApp",
   "Mode": "Default",
@@ -304,6 +304,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\c3ba442f-7711-4d2d-b2e8-ea38570066db.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\DignityWebApp\\wwwroot\\images\\product\\cb168cd5-75c2-4346-8317-1d66776832d6.jpg",
+      "SourceId": "DignityBookApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\DignityWebApp\\wwwroot\\",
+      "BasePath": "_content/DignityBookApp",
+      "RelativePath": "images/product/cb168cd5-75c2-4346-8317-1d66776832d6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\cb168cd5-75c2-4346-8317-1d66776832d6.jpg"
     },
     {
       "Identity": "C:\\Users\\Decagon\\source\\Professional Repo\\Dignity_MVC\\DignityWebApp\\wwwroot\\images\\product\\eaaa9937-076e-42e7-b83f-a0561cb513df.jpg",

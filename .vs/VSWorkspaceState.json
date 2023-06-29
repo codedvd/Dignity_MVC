@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DignityWebApp"
+    "\\DignityWebApp",
+    "\\DignityWebApp\\wwwroot",
+    "\\DignityWebApp\\wwwroot\\js"
   ],
+  "SelectedNode": "\\DignityWebApp\\wwwroot\\js\\product.js",
   "PreviewInSolutionExplorer": false
 }
